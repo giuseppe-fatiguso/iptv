@@ -144,8 +144,6 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Altro",Padre Pio TV
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Radio",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Radio",Rai Radio 2 Visual
@@ -175,63 +173,63 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 tvg-id="BalkanRadioSalzburg.at@SD",Balkan Radio Salzburg (480p)
+#EXTINF:-1 tvg-id="BalkanRadioSalzburg.at@SD" group-title="Serbian Radio",Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDUTV.rs@SD",EDU TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="EDUTV.rs@SD" group-title="Serbian Others",EDU TV (576p) [Not 24/7]
 https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMarsh.rs@SD",Marsh TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMarsh.rs@SD" group-title="Serbian Others",Marsh TV (720p) [Not 24/7]
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
-#EXTINF:-1 tvg-id="MISTelevizija.au@SD",MIS Televizija (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MISTelevizija.au@SD" group-title="Serbian Others",MIS Televizija (720p) [Not 24/7]
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="NarodnaTV.rs@SD",Narodna TV (720p)
+#EXTINF:-1 tvg-id="NarodnaTV.rs@SD" group-title="Serbian Others",Narodna TV (720p)
 https://edge8.pink.rs/narodnatv/index.m3u8
-#EXTINF:-1 tvg-id="Nova.rs@SD",Nova (1080p)
+#EXTINF:-1 tvg-id="Nova.rs@SD" group-title="Serbian",Nova (1080p)
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
-#EXTINF:-1 tvg-id="Pink.rs@SD",Pink (720p)
+#EXTINF:-1 tvg-id="Pink.rs@SD" group-title="Serbian",Pink (720p)
 https://edge8.pink.rs/pinktv/index.m3u8
-#EXTINF:-1 tvg-id="Prva.rs@SD",Prva (1080p)
+#EXTINF:-1 tvg-id="Prva.rs@SD" group-title="Serbian",Prva (1080p)
 http://51.83.135.95/Prva/index.m3u8
-#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD",Radio Hit FM TV (720p)
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" group-title="Serbian Radio",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
-#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD",Radio Karolina TV (720p)
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" group-title="Serbian Radio",Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD",Radio Lola (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" group-title="Serbian Radio",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
-#EXTINF:-1 tvg-id="RTS1.rs@SD",RTS 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTS1.rs@SD" group-title="Serbian",RTS 1 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-id="RTS2.rs@SD",RTS 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTS2.rs@SD" group-title="Serbian",RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
-#EXTINF:-1 tvg-id="RTS3.rs@SD",RTS 3 (720p)
+#EXTINF:-1 tvg-id="RTS3.rs@SD" group-title="Serbian",RTS 3 (720p)
 http://185.81.240.65:15000/udp/233.233.233.36:12000
-#EXTINF:-1 tvg-id="RTV1.rs@SD",RTV 1 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV1.rs@SD" group-title="Serbian",RTV 1 (576p) [Not 24/7]
 mmsh://212.200.255.151/rtv1
-#EXTINF:-1 tvg-id="RTV1.rs@SD",RTV 1 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV1.rs@SD" group-title="Serbian",RTV 1 (576p) [Not 24/7]
 rtsp://212.200.255.151/rtv1
-#EXTINF:-1 tvg-id="RTV2.rs@SD",RTV 2 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV2.rs@SD" group-title="Serbian",RTV 2 (576p) [Not 24/7]
 mmsh://212.200.255.151/rtv2
-#EXTINF:-1 tvg-id="RTV2.rs@SD",RTV 2 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTV2.rs@SD" group-title="Serbian",RTV 2 (576p) [Not 24/7]
 rtsp://212.200.255.151/rtv2
-#EXTINF:-1 tvg-id="TVAS.rs@SD",RTV AS (576p)
+#EXTINF:-1 tvg-id="TVAS.rs@SD" group-title="Serbian",RTV AS (576p)
 https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs@SD",RTV Bap (480p)
+#EXTINF:-1 tvg-id="RTVBap.rs@SD" group-title="Serbian",RTV Bap (480p)
 https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
-#EXTINF:-1 tvg-id="SandzakTV.rs@SD",Sandzak TV (576p)
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" group-title="Serbian Others",Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
-#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD",SOS Kanal Plus (720p)
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs@SD" group-title="Serbian Others",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD",TDI Radio TV
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" group-title="Serbian Radio",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
-#EXTINF:-1 tvg-id="TopTV.rs@SD",Top TV (1080p)
+#EXTINF:-1 tvg-id="TopTV.rs@SD" group-title="Serbian Others",Top TV (1080p)
 http://82.165.71.58:8081/TopTV/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD",TV Belle Amie (540p)
+#EXTINF:-1 tvg-id="BelleAmie.rs@SD" group-title="Serbian Others",TV Belle Amie (540p)
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD",TV Duga Plus (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVDugaPlus.rs@SD" group-title="Serbian Others",TV Duga Plus (480p) [Not 24/7]
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1 tvg-id="TVHram.rs@SD",TV Hram (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVHram.rs@SD" group-title="Serbian Others",TV Hram (576p) [Not 24/7]
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1 tvg-id="TVKanalM.rs@SD",TV Kanal M (576p)
+#EXTINF:-1 tvg-id="TVKanalM.rs@SD" group-title="Serbian Others",TV Kanal M (576p)
 http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1 tvg-id="TVPiKanal.rs@SD",TV Pi Kanal (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" group-title="Serbian Others",TV Pi Kanal (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="TVPirot.rs@SD",TV Pirot (240p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPirot.rs@SD" group-title="Serbian Others",TV Pirot (240p) [Not 24/7]
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
